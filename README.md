@@ -18,4 +18,4 @@ Error handling is also an important part of this task. The application should be
 Through this task, the developer gains practical experience in API integration, asynchronous JavaScript, and DOM manipulation. It also improves understanding of how frontend applications interact with external services. Completing this task successfully shows the ability to build a functional web application that uses real-time data, which is a valuable skill in full-stack and frontend development.
 Overall, Task-1 is designed to build a strong foundation in web development by combining UI design, API usage, and dynamic data handling. It prepares the intern to work on more advanced projects involving real-world data and complex web applications.
 
-Output- 
+Output- <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e266fc0e-8734-4693-8c1f-82c20868a2f3"
